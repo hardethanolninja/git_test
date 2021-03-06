@@ -1,0 +1,1 @@
+this is hardethanolninja's first git project!
